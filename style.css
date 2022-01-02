@@ -1,0 +1,22 @@
+    <style> @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap'); </style>
+
+body{
+    background-color: #A9A9A9;
+    font-family: 'Poppins', sans-serif;
+    color: #2d2d2d;
+    font-size: 14px;
+     }
+
+@media screen and (min-width : 994px) {
+.form-control{
+    width: 400px;
+}
+}
+@media screen and (max-width : 994px) {
+    .navbar-nav{
+        text-align: center;
+    }
+    }
+.form-control{
+    font-size: 14px;
+}
